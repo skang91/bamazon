@@ -9,7 +9,7 @@ Amazon-like storefront with the MySQL and Node app. Customers, managers, and sup
 5. Create a pw.js file and add your password to access your root server to that file. This file is a dependency for the app. If you do not require a password to access your root, simply leave the pw property as an empty string.
 
 # Instructions:
-<h2>Customers</h2>
+<h3>Customers View</h3>
 
 ![gif](img/customer.gif)
 
@@ -19,7 +19,7 @@ Amazon-like storefront with the MySQL and Node app. Customers, managers, and sup
 - If you would like to buy another item, repeat
 - If you would like to leave, click exit
 
-<h2>Managers</h2>
+<h3>Managers View</h3>
 
 ![gif](img/manager.gif)
 - Select the options either to view products for sale, view low inventory, add to inventory, add new product, or exit.
@@ -27,7 +27,7 @@ Amazon-like storefront with the MySQL and Node app. Customers, managers, and sup
 - If you select add new product, follow the prompts for item name, department, price, and quantity in stock
 - When you are ready to leave, click exit
 
-<h2>Supervisors</h2>
+<h3>Supervisors View</h3>
 
 ![gif](img/supervisors.gif)
 - Select the options either to view product sales by department, create a new department, or exit.
