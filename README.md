@@ -11,7 +11,7 @@ Amazon-like storefront with the MySQL and Node app. Customers, managers, and sup
 # Instructions:
 <h3>Customers View</h3>
 
-![gif](img/customer.gif)
+![gif](gif/customer.gif)
 
 - Select the options either to view items or leave.
 - If you select view items, input and enter the item id
@@ -21,7 +21,7 @@ Amazon-like storefront with the MySQL and Node app. Customers, managers, and sup
 
 <h3>Managers View</h3>
 
-![gif](img/manager.gif)
+![gif](gif/manager.gif)
 - Select the options either to view products for sale, view low inventory, add to inventory, add new product, or exit.
 - If you select add to inventory, follow the prompts for item id to increase inventory on and quantity to increase inventory
 - If you select add new product, follow the prompts for item name, department, price, and quantity in stock
@@ -29,7 +29,7 @@ Amazon-like storefront with the MySQL and Node app. Customers, managers, and sup
 
 <h3>Supervisors View</h3>
 
-![gif](img/supervisors.gif)
+![gif](gif/supervisors.gif)
 - Select the options either to view product sales by department, create a new department, or exit.
 - If you select create new department, follow the prompts for department name and overhead costs
 - When you are ready to leave, click exit
