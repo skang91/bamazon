@@ -1,0 +1,25 @@
+{
+  "name": "bamazoncustomer.js",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront with the MySQL and Node app. Customers, managers, and supervisors are able to use this app. Customers to view items and place orders, for managers to perform inventory control and add new products, and for supervisors to track department profitability and add new departments.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skang91/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skang91/bamazon/issues"
+  },
+  "homepage": "https://github.com/skang91/bamazon#readme"
+}
